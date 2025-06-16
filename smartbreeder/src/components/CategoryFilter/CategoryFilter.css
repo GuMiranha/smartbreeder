@@ -1,0 +1,46 @@
+.category-filter {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.category-filter h3 {
+  margin: 0 0 1rem 0;
+  color: #2c3e50;
+  font-size: 1.1rem;
+}
+
+.category-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.category-button {
+  background: none;
+  border: 1px solid #e2e8f0;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.9rem;
+  color: #4a5568;
+  transition: all 0.2s ease;
+}
+
+.category-button:hover {
+  background-color: #f7fafc;
+  border-color: #cbd5e0;
+}
+
+.category-button.active {
+  background-color: #2c3e50;
+  color: white;
+  border-color: #2c3e50;
+}
+
+.category-button.active:hover {
+  background-color: #2c5282;
+  border-color: #2c5282;
+}
