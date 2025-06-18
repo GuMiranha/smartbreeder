@@ -58,4 +58,4 @@ smartbreeder/
 └── vite.config.ts # Configuração do Vite
 ```
 
-Link do Projeto: [https://github.com/seu-usuario/smartbreeder](https://github.com/GuMiranha/smartbreeder)
+Link do Projeto: [https://github.com/GuMiranha/smartbreeder](https://github.com/GuMiranha/smartbreeder)
